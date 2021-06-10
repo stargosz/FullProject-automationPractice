@@ -1,0 +1,19 @@
+2021-06-08 11:53:52.017 [main] DEBUG Configuration.EnvironmentProperty ->>>>> Environment name: env_int
+2021-06-08 11:53:52.029 [main] DEBUG Configuration.EnvironmentProperty -Loading property from uri file:/C:/Users/stargosz/Desktop/Lesson12-automationPractice/target/classes/env_int
+2021-06-08 11:53:52.029 [main] DEBUG Configuration.EnvironmentProperty -Loading environment property implicitlyWait = 15 
+2021-06-08 11:53:52.029 [main] DEBUG Configuration.EnvironmentProperty -Loading environment property env_name = int 
+2021-06-08 11:53:52.029 [main] DEBUG Configuration.EnvironmentProperty -Loading environment property eTitle = SeleniumHQ Browser Automation 
+2021-06-08 11:53:52.042 [main] DEBUG Configuration.EnvironmentProperty -Loading environment property appUrl = http://automationpractice.com/index.php 
+2021-06-08 11:53:52.511 [main] DEBUG i.g.b.wdm.cache.ResolutionCache -Resolution chrome=91 in cache (valid until 12:04:32 08/06/2021 CEST)
+2021-06-08 11:53:52.516 [main] DEBUG i.g.b.wdm.cache.ResolutionCache -Resolution chrome91=91.0.4472.19 in cache (valid until 11:04:32 09/06/2021 CEST)
+2021-06-08 11:53:52.516 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -Using chromedriver 91.0.4472.19 (resolved driver for Chrome 91)
+2021-06-08 11:53:52.519 [main] TRACE i.g.b.wdm.cache.CacheHandler -Checking if chromedriver exists in cache
+2021-06-08 11:53:52.527 [main] TRACE i.g.b.wdm.cache.CacheHandler -Filter cache by chromedriver -- input list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\stargosz\.cache\selenium\chromedriver\win32\91.0.4472.19\chromedriver.exe, C:\Users\stargosz\.cache\selenium\resolution.properties] -- output list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\stargosz\.cache\selenium\chromedriver\win32\91.0.4472.19\chromedriver.exe] 
+2021-06-08 11:53:52.527 [main] TRACE i.g.b.wdm.cache.CacheHandler -Filter cache by 91.0.4472.19 -- input list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\stargosz\.cache\selenium\chromedriver\win32\91.0.4472.19\chromedriver.exe] -- output list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\91.0.4472.19\chromedriver.exe] 
+2021-06-08 11:53:52.527 [main] TRACE i.g.b.wdm.cache.CacheHandler -Filter cache by WIN -- input list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\91.0.4472.19\chromedriver.exe] -- output list [C:\Users\stargosz\.cache\selenium\chromedriver\win32\91.0.4472.19\chromedriver.exe] 
+2021-06-08 11:53:52.527 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager -Driver chromedriver 91.0.4472.19 found in cache
+2021-06-08 11:53:52.527 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -Exporting webdriver.chrome.driver as C:\Users\stargosz\.cache\selenium\chromedriver\win32\91.0.4472.19\chromedriver.exe
+2021-06-08 11:53:57.488 [main] INFO  TestBase.class -Driver initialized
+2021-06-08 11:53:57.488 [main] INFO  TestBase.class -Implicit wait set for 15 seconds
+2021-06-08 11:53:59.524 [main] DEBUG WebClient.WebClient -Clicking on element: Sign in
+2021-06-08 11:53:59.528 [main] INFO  TestBase.class ->>>> Test finished <<<<

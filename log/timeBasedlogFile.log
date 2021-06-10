@@ -1,0 +1,27 @@
+2021-06-10 11:50:03.512 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>> Before click: Clicking on element: Mrs.<<<<<<<<<<
+2021-06-10 11:50:03.559 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>>After click: Clicking on element: <<<<<<<<<<
+2021-06-10 11:50:03.733 [main] DEBUG WebClient.WebClient -Sending text: 'hTKzZ' to element: 
+2021-06-10 11:50:03.868 [main] DEBUG WebClient.WebClient -Sending text: 'zliuO' to element: 
+2021-06-10 11:50:04.010 [main] DEBUG WebClient.WebClient -Sending text: 'nzUpoJh' to element: 
+2021-06-10 11:50:04.576 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>> Before click: Clicking on element: 18  <<<<<<<<<<
+2021-06-10 11:50:04.605 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>>After click: Clicking on element: <<<<<<<<<<
+2021-06-10 11:50:04.606 [main] DEBUG WebClient.WebClient -Selecting option from select with index value: 18
+2021-06-10 11:50:04.825 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>> Before click: Clicking on element: March <<<<<<<<<<
+2021-06-10 11:50:04.878 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>>After click: Clicking on element: <<<<<<<<<<
+2021-06-10 11:50:04.878 [main] DEBUG WebClient.WebClient -Selecting option from select with index value: 3
+2021-06-10 11:50:07.233 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>> Before click: Clicking on element: 1919  <<<<<<<<<<
+2021-06-10 11:50:07.270 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>>After click: Clicking on element: <<<<<<<<<<
+2021-06-10 11:50:07.270 [main] DEBUG WebClient.WebClient -Selecting option from select with index value: 103
+2021-06-10 11:50:07.403 [main] DEBUG WebClient.WebClient -Sending text: 'PTniNnmmeh' to element: 
+2021-06-10 11:50:07.559 [main] DEBUG WebClient.WebClient -Sending text: 'FZuDtMd' to element: 
+2021-06-10 11:50:08.120 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>> Before click: Clicking on element: Louisiana<<<<<<<<<<
+2021-06-10 11:50:08.159 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>>After click: Clicking on element: <<<<<<<<<<
+2021-06-10 11:50:08.159 [main] DEBUG WebClient.WebClient -Selecting option from select with index value: 19
+2021-06-10 11:50:08.307 [main] DEBUG WebClient.WebClient -Sending text: '14599' to element: 
+2021-06-10 11:50:08.520 [main] DEBUG WebClient.WebClient -Selecting option from select with index value: 1
+2021-06-10 11:50:08.637 [main] DEBUG WebClient.WebClient -Sending text: '52928' to element: 
+2021-06-10 11:50:08.637 [main] ERROR WebClient.WebClient -Timeout finding element with location: {}
+2021-06-10 11:50:08.673 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>> Before click: Clicking on element: Register<<<<<<<<<<
+2021-06-10 11:50:18.997 [main] INFO  Pages.Pages.WebListener ->>>>>>>>>>After click: Clicking on element: <<<<<<<<<<
+2021-06-10 11:50:19.029 [main] INFO  TestBase.class ->>>> Test finished <<<<
+2021-06-10 11:50:19.681 [main] INFO  TestBase.class -Driver has been closed properly
